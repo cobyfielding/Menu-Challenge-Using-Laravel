@@ -2,91 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb49a97c-803f-4f0d-b603-5fafe0153ade" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/2for20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Handhelds/blt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Handhelds/triple_hog_dare_ya.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Handhelds/turkey_stacker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/barSnacks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/better4u/salmon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/better4u/shrimpWonton.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/betterforyou.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/beverages.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/beverages/Beers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/beverages/beer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/beverages/lemonades.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/beverages/limeades.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/beverages/refreshments.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/beverages/tea.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/beverages/wine_toast.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/beverages/wines.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/burgers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/burgers/burger_american.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/burgers/burger_mushroomswiss.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/burgers/burger_triplebacon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/desserts.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/desserts/apple_cheesecake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/desserts/maple_blondie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/desserts/triple_choc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/entree_main_dishes.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/handhelds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ikea/allinburger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ikea/chicken_caesar_salad.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ikea/lemon_chicken.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ikea/onion_sirloin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ikea/pepper_crusted_sirloin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ikea/smores.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/kids.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/lunchCombos/meatballs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/lunchCombos/oriental_salad.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/lunchCombos/shrimp.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/lunch_combos.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/2for20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/barSnacks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/betterforyou.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/beverages.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/burgers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/desserts.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/entree_main_dishes.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/handhelds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/kids.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/lunch_combos.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/pubdiet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/main/salads.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/babyback_ribs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/bourbon_chicken.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/brewhouse_chicken.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/chicken.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/chicken_tenders.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/grilled_onion_sirloin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/pepper_sirloin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/riblets.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/ribs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/sirloin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainEntrees/steak.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/pubdiet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/pubdiet/CedarChicken.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/pubdiet/ShrimpWonton.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/pubdiet/SirloinStout.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/salads.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/salads/ChickenCeasar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/salads/FiestaChicken.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/salads/ThaiShrimp.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/twofor/allinburger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/twofor/chicken_penne.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/twofor/chicken_tend.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/twofor/mozzeralla_sticks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/twofor/onion_rings.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/categories.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/items.blade.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/pages/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/DatabaseController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/DatabaseController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" />
     </list>
     <ignored path="laramenu.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -121,8 +37,8 @@
       <file leaf-file-name="categories.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/pages/categories.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.333333">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state vertical-scroll-proportion="-7.3333335">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -131,18 +47,18 @@
       <file leaf-file-name="items.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/pages/items.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.0">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.333333">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.666667">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.2090813">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -151,18 +67,18 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DatabaseController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DatabaseController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DatabaseController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26610348">
-              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+            <state vertical-scroll-proportion="-12.0">
+              <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
               </folding>
@@ -184,11 +100,11 @@
         <option value="$PROJECT_DIR$/resources/views/pages/app.blade.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/database/migrations/2016_02_18_211043_menu_entry_migration.php" />
-        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/categories.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/DatabaseController.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/items.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
       </list>
     </option>
   </component>
@@ -208,9 +124,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -223,7 +139,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -236,87 +152,10 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laramenu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laramenu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laramenu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laramenu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laramenu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laramenu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laramenu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laramenu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laramenu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../notes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../menu" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -373,11 +212,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.499187" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49865228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -412,6 +251,106 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pages/categories.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pages/items.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DatabaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pages/categories.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pages/items.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DatabaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -480,7 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,14 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.3333333">
@@ -549,37 +479,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.666667">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pages/categories.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.333333">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state vertical-scroll-proportion="-7.3333335">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pages/items.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.0">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.333333">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DatabaseController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26610348">
-          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        <state vertical-scroll-proportion="-12.0">
+          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2090813">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
