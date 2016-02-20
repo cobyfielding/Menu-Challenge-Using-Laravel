@@ -12,17 +12,22 @@
         html, body {
             height: 100%;
         }
-        .content {
-            text-align: center;
-            display: inline-block;
+        h2 {
+            font-size:16px;
         }
-
-        .title {
-            font-size: 96px;
+        img {
+            height: 194px;
+            width: 283px;
         }
+        
     </style>
 </head>
 <body>
+<h1 class="text-center"><a href="/"><img src="images/logo.png" alt=""></a></h1>
+<div class="container">
+    <div class="row">
 @yield('content')
+    </div>
+</div>
 </body>
 </html>
