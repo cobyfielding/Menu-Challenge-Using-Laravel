@@ -23,6 +23,7 @@
     </style>
 </head>
 <body>
+{{--I use the Applebee's logo as a home button--}}
 <h1 class="text-center"><a href="/"><img src="images/logo.png" alt=""></a></h1>
 <div class="container">
     <div class="row">
