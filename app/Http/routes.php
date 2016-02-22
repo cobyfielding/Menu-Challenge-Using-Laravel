@@ -16,6 +16,8 @@ Route::get('/', 'DatabaseController@Categories');
 //Uses the ID of the Category in the URL to access items with that CAT_ID in the database
 Route::get('/{id}', 'DatabaseController@Items');
 
+Route::get('delete/{id}', 'DatabaseController@Delete');
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes

@@ -10,6 +10,7 @@
     <div class="col-md-4 portfolio-item">
         {{--Takes the ID from the variable and uses it for the href link also uses title and image for display info--}}
         <a href="{{ url('/', $cat->id) }}"><img src="{{ $cat->image }}"></a>
+        <span><a href="{{ url('delete', $cat->id) }}">Delete</a></span>
         <a href="{{ url('/', $cat->id) }}"><h2>{{ $cat->title }}</h2></a>
     </div>
 

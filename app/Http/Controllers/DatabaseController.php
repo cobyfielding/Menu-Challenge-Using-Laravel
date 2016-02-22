@@ -28,4 +28,29 @@ class DatabaseController extends Controller
     $items=DB::table('menu')->where('catID', $id)->get();
         return view('pages.items', compact('items'));
     }
+
+    public function Delete($id){
+        DB::table('menu')->where('catID', $id)->delete();
+        if($id>=13){
+            DB::table('menu')->where('id', $id)->delete();
+            return view('pages.delete');
+        }
+        elseif($id > 18){
+            DB::table('menu')->where('id', $id)->delete();
+            return view('pages.delete');
+        }
+        else return view('pages.delete');
+
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
