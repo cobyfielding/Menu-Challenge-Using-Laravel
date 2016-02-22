@@ -26,6 +26,7 @@
 <h1 class="text-center"><a href="/"><img src="images/logo.png" alt=""></a></h1>
 <div class="container">
     <div class="row">
+        {{--Using bootstrap for my CSS This portion is set aside for dynamic content created in the other views--}}
 @yield('content')
     </div>
 </div>

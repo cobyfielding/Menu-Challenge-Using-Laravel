@@ -10,8 +10,10 @@
 | and give it the controller to call when that URI is requested.
 |
 */
-
+// Route to Home page displaying main categories
 Route::get('/', 'DatabaseController@Categories');
+
+//Uses the ID of the Category in the URL to access items with that CAT_ID in the database
 Route::get('/{id}', 'DatabaseController@Items');
 
 /*
