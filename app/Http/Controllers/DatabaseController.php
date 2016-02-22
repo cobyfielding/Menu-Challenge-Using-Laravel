@@ -28,7 +28,13 @@ class DatabaseController extends Controller
     $items=DB::table('menu')->where('catID', $id)->get();
         return view('pages.items', compact('items'));
     }
-
+//  Added a function to delete items selected
+//  will delete either just an item, a subcategory
+//  with corresponding items, or a category and all
+//  subcats and items.
+//  the $id passed through the route is run through and if/else
+//  loop in order to make sure everything that should be deleted
+//  is deleted.
     public function Delete($id){
         DB::table('menu')->where('catID', $id)->delete();
         if($id>=13){

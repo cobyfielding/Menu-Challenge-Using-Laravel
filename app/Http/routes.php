@@ -16,6 +16,7 @@ Route::get('/', 'DatabaseController@Categories');
 //Uses the ID of the Category in the URL to access items with that CAT_ID in the database
 Route::get('/{id}', 'DatabaseController@Items');
 
+//Allows for delete route while taking $id and giving it to the function
 Route::get('delete/{id}', 'DatabaseController@Delete');
 
 /*

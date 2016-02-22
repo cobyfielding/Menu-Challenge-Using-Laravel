@@ -13,6 +13,7 @@
             <div class="col-md-4 portfolio-item">
         <a href="{{ $item->id }}"><h2>{{ $item->title }}</h2></a>
         <a href="{{ $item->id }}"><img src="{{ $item->image }}"></a>
+                {{--    Added Delete button link to allow for deleting items/cats/subcats   --}}
                 <span><a href="{{ url('delete', $item->id) }}">Delete</a></span>
             </div>
             @elseif($item->type=='cat')
