@@ -15,7 +15,7 @@ class DatabaseController extends Controller
 //    then returns the items into an array to be sorted on the categories page
 
         public function Categories(){
-    $cats=DB::table('menu')->where('type', 'cat')->get();
+    $cats=DB::table('catsSubcats')->where('type', 'cat')->get();
         return view('pages.categories', compact('cats'));
 }
 
@@ -25,9 +25,18 @@ class DatabaseController extends Controller
 //     sends the items as an array to the items page
 
     public function Items($id){
-    $items=DB::table('menu')->where('catID', $id)->get();
-        return view('pages.items', compact('items'));
+        if($id == 4 or $id == 12){
+            $items=DB::table('catsSubcats')->where('catID', $id)->get();
+            return view('pages.items', compact('items'));
+        }
+        else {
+            $items = DB::table('items')->where('catID', $id)->get();
+            return view('pages.items', compact('items'));
+        }
+
     }
+
+
 //  Added a function to delete items selected
 //  will delete either just an item, a subcategory
 //  with corresponding items, or a category and all
@@ -36,17 +45,15 @@ class DatabaseController extends Controller
 //  loop in order to make sure everything that should be deleted
 //  is deleted.
     public function Delete($id){
-        DB::table('menu')->where('catID', $id)->delete();
-        if($id>=13){
-            DB::table('menu')->where('id', $id)->delete();
+            DB::table('catsSubcats')->where('id', $id)->delete();
             return view('pages.delete');
-        }
-        elseif($id > 18){
-            DB::table('menu')->where('id', $id)->delete();
-            return view('pages.delete');
-        }
-        else return view('pages.delete');
 
+
+
+    }
+    public function DeleteItems($id){
+            DB::table('items')->where('id', $id)->delete();
+            return view('pages.delete');
     }
 }
 

@@ -16,13 +16,12 @@
                 {{--    Added Delete button link to allow for deleting items/cats/subcats   --}}
                 <span><a href="{{ url('delete', $item->id) }}">Delete</a></span>
             </div>
-            @elseif($item->type=='cat')
 
         {{--If there is no SUBCAT then the items are displayed as follows--}}
-        @else()
+        @else
             <div class="col-md-4 portfolio-item">
         <img src="{{ $item->image }}">
-                <span><a href="{{ url('delete', $item->id) }}">Delete</a></span>
+                <span><a href="{{ url('deleteItem', $item->id) }}">Delete</a></span>
         <h2>{{ $item->title }}</h2>
             </div>
 
