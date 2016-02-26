@@ -1,27 +1,9 @@
-# Laravel PHP Framework
+# Applebee's Menu Challenge
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+In this challenge we had to re-create Applebee's menu using SQLITE database and laravel framework.  In order to complete the challenge, the menu had to be dynamically built using the database and a maximum of 2 php pages.  I also had to account for subcategories within categories, leaving a third type of data to account for.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## Process
+I began the process by building a home categories page, and inserting 12 categories into the database.  Once I was able to display the categories on the homepage, I started working on the link structure.  The link structure is based on an ID variable being passed through the Route and into the controller. Once the variable reaches the controller function, the database is queried using the ID, and the corresponding items are then displayed on the next page.  In order to handle the situation where categories had subcategories, I put an if/else statement on the final view to display subcategories as links or items as a gallery. 
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## Take Away
+This is the first time I have built a dynamic page using laravel, and it was much easier than using just PHP.  The security features and background workings of laravel make completing projects like this incredibly fast and easy.
